@@ -1,0 +1,48 @@
+Physics XI
+Time Allowed : 30 Minutes ________________________ Maximum Marks :
+30
+
+Please read the instructions carefully. You will be alloted 5 minutes specically for this purpose.
+
+Instructions
+
+A. General
+
+     1. Blank papers, clipboards, log tables, slide rules, calculators, cellular phones, pagers, and
+     electronic gadgets in any form are not allowed.
+     2. Do not break the seals of the question-paper booklet before instructed to do so by the
+     invigilators.
+
+B. Question paper format and Marking Scheme :
+
+     1. This question paper consists of 3 questions carrying 10 marks each.
+
+
+
+
+                                                    1
+Q1:   Figure shows a man standing stationary with respect to a horizontal conveyor belt that is acceler-
+      ating with 1ms−2 . What is the net force on the man? If the coecient of static friction between
+      the man's shoes and the belt is 0.2, up to what acceleration of the belt can the man continue to
+      be stationary relative to the belt ? (Mass of the man = 65 kg.)
+
+
+
+
+Q2:   A thin circular loop of radius R rotates about its vertical diameter with an angular
+                                                                                         pfrequency ω.
+      Show that a small bead on the wire loop remains at its lowermost point for ω ≤ g/R . What
+      is the angle made pby the radius vector joining the centre to the bead with the vertical downward
+      direction for ω = 2g/R ? Neglect friction.
+Q3:   A monkey of mass 40 kg climbs on a rope which can stand a maximum tension of 600 N. In which
+      of the following cases will the rope break: the monkey
+      (a) climbs up with an acceleration of 6 m s−2
+      (b) climbs down with an acceleration of 4 m s−2
+      (c) climbs up with a uniform speed of 5 m s−1
+      (d) falls down the rope nearly freely under gravity? (Ignore the mass of the rope).
+
+
+
+
+                                                   2
+
